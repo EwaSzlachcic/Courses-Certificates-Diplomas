@@ -1,6 +1,6 @@
 # Courses & Certificates & Diplomas
 
-In the folders you can find my Interdisciplinary PhD Programm Diploma with Appendix and course certificates
+In the folders you can find my Interdisciplinary PhD Programme Diploma with Appendix and course certificates
 
 ## List of courses I have attended and currently taking
 
