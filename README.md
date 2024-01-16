@@ -8,7 +8,7 @@ In the folders you can find my Interdisciplinary PhD Programme Diploma with Appe
 
 - The Complete 2023 Software Testing Bootcamp | 30h | udemy
 - Software Testing in Practice | Bootcamp (in Polish) | 40h | udemy
-- Software Tester Course - Become an Effective Tester | 16h in progress | udemy
+- Software Tester Course - Become an Effective Tester | 15h | udemy
 
 ### Web development
 
